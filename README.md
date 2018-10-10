@@ -34,7 +34,7 @@ Read [the installation instructions](https://www.paxautoma.com/operos/docs/insta
 ## Installation of multiple Workers on Proxmox 5.x
 - The "Controller" uses motherboard serial number to assign unique hostnames to "Workers". 
 - The serial number on the Proxmox KVM's virtual motherboard is blank by default.
-- You can assign a serial number to a KVM instance via the gui by using the KVM's "Options"->"SMBios Setting (type 1)" and adding a uniqie serial number.
+- You can assign a serial number to a KVM instance via the gui by using the KVM's "Options"->"SMBios Setting (type 1)" and adding a unique serial number.
 
 ## Building from source
 
